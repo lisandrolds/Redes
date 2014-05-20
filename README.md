@@ -29,7 +29,9 @@ devem ser registradas com comentários que façam sentido. Uma opção para comp
 que fazem parte do grupo é usar o Sparkleshare. O trabalho pode ser feito em grupos de até 2 alunos, desde que seja possível
 identiﬁcar commits de todos os integrantes do grupo com contribuição ao projeto.
 O trabalho não deve estar disponível em um repositório aberto.
+
 Produtos
+
 A entrega será realizadas pelo Moodle e deverá conter:
  Fontes do programa e cópia do repositório do sistema de gerenciamento de versões;
  Makeﬁle que gere o programa;
