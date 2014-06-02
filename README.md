@@ -6,10 +6,7 @@ Versão 28-04-2014
 
 TRABALHO 1
 
-Nomes:
-      Andre Basso de Almeida
-      
-      Lisandro Luiz da Silva
+Nomes:Andre Basso de Almeida, Lisandro Luiz da Silva
 
 Descrição
 Desenvolva um webcrawler HTTP/1.1 multithreaded, com um subconjunto da RFC 2616 [1]. O webcrawler recebe como parâmetro na linha de comando a profundidade de busca e uma URL. A partir disso, o webcrawler recursivamente busca a página, as páginas ligadas com tags < ahref > e as imagens, até o nível máximo especiﬁcado na profundidade de busca. Os parâmetros serão fornecidos na seguinte ordem: executeme profundidade URL 
