@@ -55,6 +55,8 @@ def search(url, profundidade):
 	
 		for imagem in img:
 			print imagem
+	
+		print '\n'
 		
 		if(profundidade - 1 > 0):
 			search(lista[i], profundidade - 1)
